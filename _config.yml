@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 typography_spectrum: 0.1684588
 color:
   saturation: 0.7473118
-  brandStrength: 1
-  rhythmicContrast: 0.5698925
+  brandStrength: 0
+  lightness: 1
   brandColors:
-    - '#030103'
-    - '#A39BA2'
-    - '#D9263B'
-    - '#5C545B'
-    - '#FFF9F3'
-  lightness: 0.3888889
+    - '#000000'
+    - '#648190'
+    - '#213041'
+    - '#CFC6B4'
+    - '#FFFFF4'
+  rhythmicContrast: 0.4856631
 layout_spectrum: 0.969534
 name: ViewFinder
