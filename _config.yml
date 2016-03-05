@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.7473118
+  lightness: 0.3888889
+  brandStrength: 0.2777778
+  brandColors:
+    - '#1F1516'
+    - '#A38977'
+    - '#FFFBD7'
+    - '#92B3E0'
+    - '#0266C6'
+  rhythmicContrast: 0.5698925
+typography_spectrum: 0.1684588
+name: ViewFinder
