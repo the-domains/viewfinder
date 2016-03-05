@@ -4,7 +4,7 @@
         <description><![CDATA[ViewFinder]]></description>
         <link>https://thegrid.ai/viewfinder/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 15:27:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 15:27:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/viewfinder/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Outstanding Pagoda with a green backdrop]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/viewfinder/outstanding-pagoda-with-a-green-backdrop/index.html</link>
             <guid isPermaLink="false">1606b372-e44a-4358-b7e0-a76a4713da77</guid>
             <pubDate>Sat, 05 Mar 2016 15:22:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Enthusiastic Skater. Penang]]></title>
-            <description><![CDATA[<article><h1>Enthusiastic Skater. Penang</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32b2ad64158d3433262c4c4d98f5f85ea3921724.png"></article>]]></description>
-            <link>https://thegrid.ai/viewfinder/enthusiastic-skater-penang/index.html</link>
-            <guid isPermaLink="false">a194e1d9-ac27-4746-bba4-e316dec0d2aa</guid>
-            <pubDate>Sat, 05 Mar 2016 15:27:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
