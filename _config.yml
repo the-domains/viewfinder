@@ -1,3 +1,7 @@
+name: ViewFinder
+favicon: null
+layout_spectrum: 0.969534
+typography_spectrum: 0.1684588
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.1684588
+title: DK ViewFinder
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7473118
-  brandStrength: 0
-  lightness: 1
   brandColors:
     - '#000000'
     - '#648190'
     - '#213041'
     - '#CFC6B4'
     - '#FFFFF4'
+  brandStrength: 0
+  lightness: 1
+  saturation: 0.7473118
   rhythmicContrast: 0.4856631
-layout_spectrum: 0.969534
-name: ViewFinder
+purpose: []
